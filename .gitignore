@@ -1,0 +1,9 @@
+.metadata/
+*.class
+*.xml
+*.iml
+*.classpath
+*.project
+*.prefs
+*.kotlin_module
+*.pdf
